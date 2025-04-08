@@ -33,8 +33,7 @@ Recognize data as the core enterprise asset controlling AI value creation. Map d
 Implement guardrails, not roadblocks. Design risk controls proportional to impact assessment. Build model monitoring into deployment pipelines. Create clear accountability for model performance. Establish rapid remediation protocols for drift detection.
 
 ## AI Operating Model Structure
-This is an overview of the life cycle and components to implement an operating model
-![Miro](https://github.com/user-attachments/assets/4c1a8070-bc15-46c2-be4e-96ebc053906a)
+This is an overview of the life cycle and components to implement an operating model.
 
 ![AI Operating Model](/images/aiOperatingModel.jpg)
 
