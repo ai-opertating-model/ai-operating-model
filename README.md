@@ -88,6 +88,7 @@ For more information or to discuss potential contributions, please contact.
 
 ### Project Sponsor
 
-AlignAI curates this information with help from the contributors.
+[AlignAI](www.getalignai.com). curates this information with help from the contributors. Please contact alignai to learn more or ask any questions. 
 
 ### Contributors
+Sean Erickson
