@@ -34,8 +34,9 @@ Implement guardrails, not roadblocks. Design risk controls proportional to impac
 
 ## AI Operating Model Structure
 This is an overview of the life cycle and components to implement an operating model
+![Miro](https://github.com/user-attachments/assets/4c1a8070-bc15-46c2-be4e-96ebc053906a)
 
-This operating model is organized to be practical and applicable across many organizations.
+![AI Operating Model](/images/aiOperatingModel.jpg)
 
 - **Programs** - runbooks across capabilities to create components of the AI life cycle. These are specific paths and implementation guides for an outcome.
 - **Capabilities** - the combination of processes, people, and technology to accomplish portions of the AI lifecycle. 
