@@ -32,9 +32,11 @@ Recognize data as the core enterprise asset controlling AI value creation. Map d
 
 Implement guardrails, not roadblocks. Design risk controls proportional to impact assessment. Build model monitoring into deployment pipelines. Create clear accountability for model performance. Establish rapid remediation protocols for drift detection.
 
-## Structure 
+## AI Operating Model Structure
+This is an overview of the life cycle and components to implement an operating model
 
 This operating model is organized to be practical and applicable across many organizations.
+![Uploading aiOperatingModel.jpg…]()
 
 - **Programs** - runbooks across capabilities to create components of the AI life cycle. These are specific paths and implementation guides for an outcome.
 - **Capabilities** - the combination of processes, people, and technology to accomplish portions of the AI lifecycle. 
