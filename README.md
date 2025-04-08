@@ -86,9 +86,9 @@ For more information or to discuss potential contributions, please contact.
 
 ### Roadmap 
 This is our plan to develop and publish this operating model
-- **Prototype** - you're looking at it. We want to create the initial structure and seed content for contributors to provide feedback on how to create it. The focus will be on the AI Operating Model and the 
-- **MVP** - the initial version for enterprise teams to field test and provide feedback on the structure and effectiveness.
-- **V1** - 
+- **Prototype** - you're looking at it. We want to create the initial structure and seed content for contributors to provide feedback on how to create it. The focus will be on the AI Operating Model and the Data Governance programs. 
+- **MVP** - the initial version for early adopting enterprise teams to field test and provide feedback on the structure and effectiveness. The focus will be on AI Ideation and AI Command Center Programs. 
+- **V1** - the hardened and validated version of the operating model for mass publication and sharing. 
 
 ### Project Sponsor
 
