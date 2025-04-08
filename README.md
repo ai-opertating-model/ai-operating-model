@@ -2,10 +2,10 @@
 
 Our goal is to democratize enterprise AI adoption by providing a comprehensive, open-source operating model that empowers organizations to deliver impactful AI solutions with confidence, speed, and responsibility in complex enterprise environments.
 
-The AI operating model is a comprehensive framework that defines how an organization structures, governs, and scales its artificial intelligence initiatives to drive business value. Organizations are prioritizing these efforts in order to:
+The AI operating model is a comprehensive framework that defines how an organization structures, governs, and scales its artificial intelligence initiatives to drive business value. Organizations are prioritizing these efforts:
 
-- Define the organizational structure and relationship between the business units and central technical teams (e.g. federated, hub and spoke, etc.).
-- Define and streamline the process across various teams including the business, control teams (InfoSec, risk and compliance etc.) and development teams.
+- Define the organizational structure and relationship between the business units and central technical teams (e.g., federated, hub and spoke, etc.).
+- Define and streamline the process across various teams, including the business, control teams (InfoSec, risk and compliance, etc.), and development teams.
 - Implement AI strategy and show leadership maturity of capabilities and financial results
 
 This framework bridges the gap between AI potential and enterprise reality, equipping teams with practical guidance, proven patterns, and governance frameworks that accelerate the journey from AI concept to value creation.
@@ -14,7 +14,7 @@ This operating model is open-source under the Apache 2.0 license. You are free t
 
 ## Principles
 
-This operating model is built around the following overarching assumptions around how AI needs to be successful in the enterprise.
+This operating model is built around the following overarching assumptions about how AI needs to be successful in the enterprise.
 
 ### 1. Business Strategy Drives AI
 
@@ -76,8 +76,6 @@ Establish data quality standards for model training. Create ownership and stewar
 
 We're actively seeking contributions to enhance and evolve this framework. As an open-source project, we believe that diverse perspectives and experiences will make this operating model more robust, practical, and widely applicable.
 
-#### Ways to Contribute
-
 - **Refine Existing Content**: Help improve clarity, accuracy, and practicality of current guidance
 - **Add Case Studies**: Share anonymized real-world examples that illustrate principles in action
 - **Expand Implementation Guidance**: Contribute templates, checklists, or methodologies.
@@ -86,9 +84,15 @@ We're actively seeking contributions to enhance and evolve this framework. As an
 
 For more information or to discuss potential contributions, please contact.
 
+### Roadmap 
+This is our plan to develop and publish this operating model
+- **Prototype** - you're looking at it. We want to create the initial structure and seed content for contributors to provide feedback on how to create it. The focus will be on the AI Operating Model and the 
+- **MVP** - the initial version for enterprise teams to field test and provide feedback on the structure and effectiveness.
+- **V1** - 
+
 ### Project Sponsor
 
 [AlignAI](www.getalignai.com). curates this information with help from the contributors. Please contact alignai to learn more or ask any questions. 
 
 ### Contributors
-Sean Erickson
+
