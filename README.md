@@ -37,10 +37,9 @@ This is an overview of the life cycle and components to implement an operating m
 
 ![AI Operating Model](/images/aiOperatingModel.jpg)
 
-- **Programs** - runbooks across capabilities to create components of the AI life cycle. These are specific paths and implementation guides for an outcome.
+- **Blueprints** - runbooks across capabilities to create components of the AI life cycle. These are specific paths and implementation guides for an outcome.
 - **Capabilities** - the combination of processes, people, and technology to accomplish portions of the AI lifecycle. 
-- **AI Life Cycle** - the standard/common process projects flow through with best practices.
-- **Components** - steps in the life cycle or activities for the life cycle to apply capabilities. 
+- **Toolkits** - the standard/common process projects flow through with best practices.
 - **Templates** - specific templates to use for each project or component 
 
 ## Programs
