@@ -42,7 +42,7 @@ This is an overview of the life cycle and components to implement an operating m
 - **Toolkits** - the standard/common process projects flow through with best practices.
 - **Templates** - specific templates to use for each project or component 
 
-## Programs
+## Blueprints
 
 The operating model is organized with specific paths for organizations to implement based on their priorities and needs. You can think of these as paths for specific outcomes through the various resources in this framework.
 
