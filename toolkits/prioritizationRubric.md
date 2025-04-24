@@ -15,14 +15,17 @@ Prioritization will ultimately become a stack rank or tradeoff decision between 
 2. Define the ideal projects your team is looking for to achieve those goals. 
 3. Create a list of dimensions to prioritize and the criteria to score based on. Wherever possible, use strict criteria instead of scalar (1 to 5). For example, instead of business value from 1-5, use 1 = <$50K per year. 
 4. Create an Intake Form to capture intiial information about a request. Capture enough information to know if it is worth following up. 
-5. Create discovery questions to cpature during the intake Form or during a live conversation, depending on the expectations in your organization and the level of 'white glove' service your team is providing. 
-6. Create 
+5. Create discovery questions to capture during the intake Form or during a live conversation, depending on the expectations in your organization and the level of 'white glove' service your team is providing. 
+6. Create a Use Case Inventory and a Create a governance model for decision-making that includes:
+- Who has final approval authority
+- Frequency of portfolio reviews
+- Process for fast-tracking urgent opportunities
+- Approach for measuring and reporting outcomes
 
 
 ## Prioritization Rubric Template
 
-## Business Value
-
+### Business Value
 **Strategic Impact**
 
 3: Directly supports core strategic initiative or major transformation
@@ -40,7 +43,7 @@ Prioritization will ultimately become a stack rank or tradeoff decision between 
 2: 3-9 months to realize benefits
 1: >9 months to realize benefits
 
-## Feasibility
+### Feasibility
 
 **Data Readiness**
 
@@ -67,7 +70,7 @@ Prioritization will ultimately become a stack rank or tradeoff decision between 
 1. Users - who will leverage this solution? What teams or personas will want to use this?  
 1. Value - how will this project add value (cost savings, revenue, customer experienece etc.)?
 
-## Discovery Questions 
+### Discovery Questions 
 
 #### **Business Value Discovery Questions:**
 1. How does this initiative align with our organization's strategic priorities for this fiscal year?
