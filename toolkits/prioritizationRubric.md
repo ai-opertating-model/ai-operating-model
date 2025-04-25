@@ -1,20 +1,20 @@
 
 ## Overview
-Picking which projects to work on can be the hardest parts for many organizations. 
+Picking which projects to work on can be the hardest part for many organizations. 
 
 ## What is the AI Prioritization Rubric?
-This toolkit provides a structured methodology for evaluating and prioritizing AI initiatives based on their potential business value, strategic alignment, and implementation feasibility. It equips leadership teams with a consistent, data-driven framework to make informed decisions about which AI projects to pursue. 
+This toolkit provides a structured methodology for evaluating and prioritizing AI initiatives based on their potential business value, strategic alignment, and implementation feasibility. It equips leadership teams with a consistent, data-driven framework to decide which AI projects to pursue. 
 
 ## Why use the AI Prioritization Rubric?
 Defining how projects are approved helps gather the right information to work on the right projects that yield the most results. A structured and formal process provides the ability to maximize the  
 
 ## How to Implement 
-Prioritization will ultimately become a stack rank or tradeoff decision between different option. Defining the dimensions and scoring creates a shared understanding of how to evaluate which projects to work on. Work backwards from the types of projects the business needs and the development team can deliver. 
+Prioritization will ultimately become a stack rank or tradeoff decision between different options. Defining the dimensions and scoring creates a shared understanding of how to evaluate which projects to work on. Work backward from the types of projects the business needs and the development team can deliver. 
 
-1. Define the AI Strategy including goals and metrics for AI and data in your organization. 
+1. Define the AI Strategy, including your organization's goals and metrics for AI and data. 
 2. Define the ideal projects your team is looking for to achieve those goals. 
-3. Create a list of dimensions to prioritize and the criteria to score based on. Wherever possible, use strict criteria instead of scalar (1 to 5). For example, instead of business value from 1-5, use 1 = <$50K per year. 
-4. Create an Intake Form to capture intiial information about a request. Capture enough information to know if it is worth following up. 
+3. Create a list of dimensions to prioritize and the criteria to score based on. Use strict criteria instead of scalar (1 to 5) wherever possible. For example, instead of business value from 1-5, use 1 = <$50K per year. 
+4. Create an Intake Form to capture initial information about a request. Capture enough information to know if it is worth following up. 
 5. Create discovery questions to capture during the intake Form or during a live conversation, depending on the expectations in your organization and the level of 'white glove' service your team is providing. 
 6. Create a Use Case Inventory and a Create a governance model for decision-making that includes:
 - Who has final approval authority
@@ -59,16 +59,16 @@ Prioritization will ultimately become a stack rank or tradeoff decision between 
 
 **Organizational Readiness**
 3: Stakeholders aligned, adoption path clear
-2: Some stakeholder buy-in, change management needed
+2: Some stakeholder buy-in and change management is required.
 1: Significant cultural/process barriers to overcome
 
 ## Intake Questions  
 
-1. Name for the project - how should we refer to this? 
+1. Name of the project - how should we refer to this effort? 
 1. Goals - what are you trying to accomplish? What does success look like?  
 1. Current Processes - what processes or activities will be impacted or changed? 
 1. Users - who will leverage this solution? What teams or personas will want to use this?  
-1. Value - how will this project add value (cost savings, revenue, customer experienece etc.)?
+1. Value - how will this project add value (cost savings, revenue, customer experience, etc.)?
 
 ### Discovery Questions 
 
@@ -78,7 +78,7 @@ Prioritization will ultimately become a stack rank or tradeoff decision between 
 1. Who are the primary stakeholders who will benefit from this solution?
 1. How is this process or decision currently being handled without AI?
 1. What are the quantifiable costs of the current approach (time, resources, errors, missed opportunities)?
-1. How will you measure success of this initiative? What metrics will demonstrate value?
+1. How will you measure the success of this initiative? What metrics will demonstrate value?
 1. What is the expected timeline to realize business benefits after implementation?
 1. How visible will the impact be to senior leadership and/or customers?
 1. Is this addressing a one-time need or an ongoing business process?
@@ -98,7 +98,7 @@ Prioritization will ultimately become a stack rank or tradeoff decision between 
 1. Who will be the business owner responsible for the success of this initiative?
 1. How will users interact with the AI solution? What interfaces or processes will change?
 1. How will decisions be made about the AI model's recommendations or outputs?
-1. Who will be responsible for monitoring and maintaining the solution after deployment?
+1. Who will monitor and maintain the solution after deployment?
 1. What concerns have stakeholders expressed about using AI for this purpose?
 1. Are there any union, compliance, or regulatory considerations?
 1. What level of explainability or transparency is required for this application?
