@@ -70,6 +70,24 @@ Prioritization will ultimately become a stack rank or tradeoff decision between 
 1. Users - who will leverage this solution? What teams or personas will want to use this?  
 1. Value - how will this project add value (cost savings, revenue, customer experience, etc.)?
 
+
+## How to Calculate Priority Scores
+
+1. **Option 1: Simple Summation**
+  * Add scores across all dimensions
+  * Higher total score = higher priority
+  * Quick but doesn't account for varying importance of factors
+
+2. **Option 2: Weighted Average**
+  * Assign weights to each dimension based on organizational priorities
+  * Multiply scores by weights, then sum
+  * Example weights: Business Value (40%), Feasibility (30%), Organizational Readiness (30%)
+
+3. **Option 3: Threshold Approach**
+  * Set minimum thresholds for critical dimensions
+  * Only consider projects that meet all thresholds
+  * Then prioritize by total or weighted score
+
 ### Discovery Questions 
 
 #### **Business Value Discovery Questions:**
