@@ -46,7 +46,7 @@ This is an overview of the life cycle and components to implement an operating m
 
 The operating model is organized with specific paths for organizations to implement based on their priorities and needs. You can think of these as paths for specific outcomes through the various resources in this framework.
 
-### Establishing the AI Operating Model
+### [AI Operating Model](blueprints/aiOperatingModel.md)
 
 Establish the operating model for cross-functional teams through standardized processes and tooling. Define team interfaces, decision rights, and escalation paths. Implement collaborative workspaces with real-time visibility. Establish shared metrics that drive coordinated execution.
 
@@ -66,7 +66,7 @@ Develop clear evaluation frameworks for make-vs-buy decisions. Identify which ca
 
 Build executive dashboards showing portfolio health, velocity, and outcomes. Implement leading indicators for investment effectiveness. Track model decay against prediction benchmarks. Monitor resource allocation against business unit priorities.
 
-### Data Governance System
+### [Data Governance](blueprints/dataGovernance.md)
 
 Establish data quality standards for model training. Create ownership and stewardship roles across functions. Implement metadata repositories with business context. Deploy data quality monitoring with automated alerting.
 
